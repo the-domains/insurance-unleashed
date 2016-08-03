@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.8490068081300706
 name: Insurance Unleashed
+navigation:
+  - name: Insurance Institute of Canada
+    url: 'http://www.ibc.ca/on/'
+    type: external
 title: Protect What you Love
 description: The Sleepless Nights Are Over
