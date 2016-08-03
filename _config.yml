@@ -1,4 +1,3 @@
-layout_spectrum: 0.8490068081300706
 typography_spectrum: 0.49487201892770827
 color:
   brandStrength: 0.5194973249454051
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.8490068081300706
 name: Insurance Unleashed
 title: Protect What you Love
+description: The Sleepless Nights Are Over
