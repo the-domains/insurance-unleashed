@@ -16,5 +16,8 @@ navigation:
   - name: Insurance Institute of Canada
     url: 'http://www.ibc.ca/on/'
     type: external
+  - name: Insurance Institute of Ontario
+    url: 'http://www.insuranceinstitute.ca/en/institutes-and-chapters/Ontario.aspx'
+    type: external
 title: Protect What you Love
 description: The Sleepless Nights Are Over
